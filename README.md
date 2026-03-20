@@ -23,7 +23,7 @@ Ejercicio 1, semana 1:
 body{
 /* "body" se refiere a todo el contenido visible de la página */
 
-  background-color: pink;
+  background-color: #B582AD;
   /* Define que el fondo de toda la página sea blanco */
 
   color: blue;
